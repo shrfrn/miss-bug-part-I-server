@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "b103",
+    "title": "Cant logout",
+    "severity": 1
+  },
+  {
+    "_id": "b104",
+    "title": "Storage full",
+    "severity": 3
+  },
+  {
+    "_id": "b105",
+    "title": "DB error",
+    "severity": 2
+  }
+]
